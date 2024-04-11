@@ -1,7 +1,7 @@
 
 ---
 
-# Three Famous Iranian Sites
+# Three Famous Iranian Sites😉👩‍💻✨
 
 This project includes three simple pages showcasing famous Iranian sites designed using Responsive design and Bootstrap.
 
@@ -27,5 +27,3 @@ Include the necessary steps here to install and run the project.
 - Add a contact form for visitors to reach out to you.
 
 ---
-
-This README template will help others understand and use your project effectively. Feel free to enhance it further with emojis to make it more engaging! 😉👩‍💻✨
